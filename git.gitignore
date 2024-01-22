@@ -1,0 +1,8 @@
+logs/
+options.txt
+usercache.json
+usernamecache.json
+rhino.local.properties
+patchouli_data.json
+modernfix/
+.curseclient
