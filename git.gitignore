@@ -6,3 +6,5 @@ rhino.local.properties
 patchouli_data.json
 modernfix/
 .curseclient
+config/oculus.properties
+config/forge-client.toml
