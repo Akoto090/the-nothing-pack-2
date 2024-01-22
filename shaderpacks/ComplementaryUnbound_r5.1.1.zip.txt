@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 #Mon Jan 22 16:24:00 CET 2024
+=======
+#Mon Jan 22 16:28:26 CET 2024
+>>>>>>> Stashed changes
 SHADER_STYLE=1
