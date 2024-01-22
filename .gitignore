@@ -3,3 +3,9 @@ options.txt
 usercache.json
 usernamecache.json
 .vscode
+rhino.local.properties
+patchouli_data.json
+saves/
+config/oculus.properties
+config/forge-client.toml
+.curseclient
