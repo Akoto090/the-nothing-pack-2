@@ -21,10 +21,10 @@
     doBlocksDropWithoutCorrectTool = false
 
     # If blocks that break instantly are mineable without the correct tool.
-    doInstantBreakBlocksDropWithoutCorrectTool = true
+    doInstantBreakBlocksDropWithoutCorrectTool = false
 
     # If blocks that break instantly drop their items without the correct tool.
-    doInstantBreakBlocksMineWithoutCorrectTool = false
+    doInstantBreakBlocksMineWithoutCorrectTool = true
 
     # If blocks such as tall grass which break instantly consume durability when broken with a knife (only affects No Tree Punching knives)
     doInstantBreakBlocksDamageKnives = true
