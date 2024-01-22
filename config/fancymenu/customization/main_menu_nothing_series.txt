@@ -1,0 +1,166 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.TitleScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_quit_button
+  x = 0
+  action = movebutton
+  y = -36
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  action = setbuttonlabel
+  value = %loadedmods% Mods
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376346%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 37
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = e4dc572e-fe57-448b-b6d6-9ba1e1c9e4a81705425502190
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 128
+  action = deep_customization_element:title_screen_branding
+  actionid = 3bf8d5db-5251-4e5d-8571-49b66ebba5911705425502206
+  y = 204
+  height = 50
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 918
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = 99055691-ed82-4253-a122-36cf748229cf1705425502207
+  y = 437
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 676
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 181a2b8f-1668-4bfb-aada-d20639df336a1705425502207
+  y = 214
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 34
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 86abb233-66b4-4146-8e74-ff2892acdd321705425502207
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = false
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 453e1305-0fa6-40ed-893a-55fbad5f0fb91705425502207
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = element
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  orientation_element = vanillabtn:button_compatibility_id:forge_titlescreen_mods_button
+  x = -102
+  width = 98
+  action = addbutton
+  actionid = c9bb6dec-43e8-4a23-b27e-b2596f68fe751705876238282
+  y = 0
+  label = Nothing Series
+  height = 20
+}
+
+customization {
+  orientation = bottom-right
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Powerd by Neoforge{"placeholder":"local","values":{"key":"akoto.neoforge.key"}}%n%Powerd by Embeddium
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -704
+  width = 465
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 2a263b46-e804-437c-9ff5-2bb8c218d6db1705879210912
+  y = -149
+  alignment = left
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  hoverlabel = 
+  restartbackgroundanimations = true
+  buttonaction = reloadmenu%btnaction_splitter_fm%
+  x = 57
+  width = 100
+  action = addbutton
+  actionid = de97050c-a079-49e7-9256-dfa9404c4f3d1705884413898
+  y = 44
+  label = Reload
+  height = 20
+}
+
+customization {
+  identifier = %id=376322%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=3763461%
+  action = hidebutton
+}
+

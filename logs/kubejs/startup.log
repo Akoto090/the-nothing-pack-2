@@ -1,9 +1,9 @@
-[16:24:51] [INIT] KubeJS 2001.6.4-build.127; MC 2001 forge
-[16:24:51] [INIT] Loaded plugins:
-[16:24:51] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[16:24:51] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[16:24:51] [INIT] - com.probejs.ProbeJSPlugin
-[16:24:52] [INFO] StartUp.js#1: Hello, World! (Loaded startup scripts)
-[16:24:52] [INFO] Loaded script startup_scripts:StartUp.js in 0.143 s
-[16:24:52] [INFO] Loaded script startup_scripts:worldGen.js in 0.002 s
-[16:24:52] [INFO] Loaded 2/2 KubeJS startup scripts in 1.168 s with 0 errors and 0 warnings
+[18:47:06] [INIT] KubeJS 2001.6.4-build.127; MC 2001 forge
+[18:47:06] [INIT] Loaded plugins:
+[18:47:06] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[18:47:06] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[18:47:06] [INIT] - com.probejs.ProbeJSPlugin
+[18:47:07] [INFO] StartUp.js#1: Hello, World! (Loaded startup scripts)
+[18:47:07] [INFO] Loaded script startup_scripts:StartUp.js in 0.168 s
+[18:47:07] [INFO] Loaded script startup_scripts:worldGen.js in 0.002 s
+[18:47:07] [INFO] Loaded 2/2 KubeJS startup scripts in 1.366 s with 0 errors and 0 warnings

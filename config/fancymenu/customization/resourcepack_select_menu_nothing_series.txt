@@ -1,0 +1,30 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.packs.PackSelectionScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = element
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  orientation_element = vanillabtn:346952
+  buttonaction = closegui%btnaction_splitter_fm%
+  x = -28
+  width = 20
+  action = addbutton
+  actionid = 95fef58e-00c6-428f-85f0-0a2f993987d91705875393452
+  y = 0
+  label = Back
+  height = 20
+}
+
