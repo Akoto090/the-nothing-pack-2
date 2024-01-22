@@ -1,16 +1,13 @@
-[14:39:02] [INIT] KubeJS 2001.6.4-build.127; MC 2001 forge
-[14:39:02] [INIT] Loaded plugins:
-[14:39:02] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[14:39:02] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[14:39:02] [INIT] - com.probejs.ProbeJSPlugin
-[14:39:03] [INFO] Loaded script server_scripts:recipe.js in 0.004 s
-[14:39:03] [INFO] Loaded script server_scripts:setMaxHealth.js in 0.002 s
-[14:39:03] [INFO] Loaded 2/2 KubeJS server scripts in 0.021 s with 0 errors and 0 warnings
-[14:39:03] [INFO] Scripts loaded
-[14:39:03] [INFO] Initializing recipe event...
-[14:39:04] [INFO] [minecraft:item] Found 639 tags, added 1 objects, removed 0 objects
-[14:39:05] [INFO] Processing recipes...
-[14:39:06] [INFO] Found 6089 recipes in 102.3 ms
-[14:39:06] [INFO] Posted recipe events in 69.96 ms
-[14:39:06] [INFO] Added 7 recipes, removed 6 recipes, modified 0 recipes, with 0 failed recipes in 38.50 ms
-[14:39:07] [INFO] Server resource reload complete!
+[16:32:59] [INIT] KubeJS 2001.6.4-build.127; MC 2001 forge
+[16:32:59] [INIT] Loaded plugins:
+[16:32:59] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[16:32:59] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[16:32:59] [INIT] - com.probejs.ProbeJSPlugin
+[16:33:00] [INFO] Loaded script server_scripts:recipe.js in 0.002 s
+[16:33:00] [INFO] Loaded script server_scripts:setMaxHealth.js in 0.0 s
+[16:33:00] [INFO] Loaded 2/2 KubeJS server scripts in 0.008 s with 0 errors and 0 warnings
+[16:33:00] [INFO] Scripts loaded
+[16:33:00] [INFO] Initializing recipe event...
+[16:33:00] [WARN] Due to the way Minecraft resource loading works, KubeJS' server.log may not contain everything that happened in your server scripts on initial world creation.
+[16:33:00] [WARN] You can still see the full log (including past reloads) in your latest.log file.
+[16:33:07] [INFO] Server resource reload complete!
