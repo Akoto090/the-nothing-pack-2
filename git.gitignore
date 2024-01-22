@@ -6,3 +6,10 @@ rhino.local.properties
 patchouli_data.json
 modernfix/
 .curseclient
+<<<<<<< Updated upstream
+config/oculus.properties
+config/forge-client.toml
+=======
+saves/
+config/
+>>>>>>> Stashed changes

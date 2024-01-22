@@ -12,5 +12,6 @@
             ],
             "url": "./.vscode/probe.doc-schema.json"
         }
-    ]
+    ],
+    "codetogether.virtualCursorJoin": "ownVirtualCursor"
 }
