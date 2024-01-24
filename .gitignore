@@ -9,3 +9,8 @@ saves/
 config/oculus.properties
 config/forge-client.toml
 .curseclient
+config/roughlyenoughitems/config.json5
+config/oculus.properties
+config/fabric/indigo-renderer.properties
+config/indium-renderer.properties
+config/oculus.properties
