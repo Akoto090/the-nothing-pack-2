@@ -2,6 +2,10 @@ type = last_world
 
 last_world {
   is_server = false
+<<<<<<< Updated upstream
   world = C:/Users/Akoto/curseforge/minecraft/Instances/QualityOfPain-NothingSeries/saves/New World (4)
+=======
+  world = C:/Users/Akoto/curseforge/minecraft/Instances/QualityOfPain-NothingSeries/saves/New World (1)
+>>>>>>> Stashed changes
 }
 
