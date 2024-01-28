@@ -30,7 +30,7 @@
     "waterfallsEnabled": true,
     "enableWaterfallSounds": true,
     "enableWaterfallParticles": true,
-    "waterRippleStyle": "DISABLED"
+    "waterRippleStyle": "PIXELATED_CIRCLE"
   },
   "entityEffects": {
     "entityEffectRange": 24,

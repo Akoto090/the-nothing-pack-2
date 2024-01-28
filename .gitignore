@@ -14,7 +14,3 @@ config/oculus.properties
 config/fabric/indigo-renderer.properties
 config/indium-renderer.properties
 config/oculus.properties
-config/roughlyenoughitems/pinyin_double.properties
-config/roughlyenoughitems/config.json5
-config/roughlyenoughitems/pinyin.properties
-config/roughlyenoughitems/pinyin_double.properties
