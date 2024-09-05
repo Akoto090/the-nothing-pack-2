@@ -8,6 +8,7 @@ This modpack is a breath of fresh air and aims to create a new experience in the
 
 ## Installation
 1. Currently the Project is in the pre alpha, releases will added when the step to the alpha is finished.
+2. You can see the modlist [[here]](MODLIST.md)
 
 ## Discord Community
 Join our Discord community to chat with fellow players, get help, and stay updated on the latest modpack developments: [Nothing-Series Hub](https://discord.com/invite/CS5BHP2w8j)
