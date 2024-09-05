@@ -1,0 +1,87 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "Test": {
+      "type": "heracles:item",
+      "item": "minecraft:granite",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Test",
+      "icon": {
+        "item": {
+          "id": "minecraft:granite",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "Testt": {
+      "title": "Test",
+      "icon": {
+        "item": {
+          "id": "minecraft:dripstone_block",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "minecraft:dripstone_block",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "<hr/>",
+      "## &&1Just So You Know",
+      "<br/>",
+      "Hey, Miners! 🪓",
+      "<br/>",
+      "You've probably already noticed, but this Modpack is one of the biggest ever created by NothingSeries. ",
+      "The developer spent over 2,000 hours crafting this unique and wild experience just for you.",
+      "<br/>",
+      "If you have any feedback or need help, feel free to join the Discord community. ",
+      "Your input is always welcome!",
+      "<br/>",
+      "~--Akoto090, Lead Dev--",
+      "<hr/>",
+      "<br/>",
+      "<text><blue><bold><link href=\"https://discord.com/invite/CS5BHP2w8j\">Discord</link></bold></blue></text>",
+      "<img src=\"minecraft:textures/item/stone_pickaxe.png\" width=\"16\" height=\"16\"/>",
+      "<h2 background='8 #aadc143c' border='5 #01dc143c' color='#44dc143c' obfuscated='true'>123456789</h2>"
+    ],
+    "groups": {
+      "New Horizons": {
+        "position": [
+          0,
+          0
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:polished_diorite",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "The Miner’s Instinct"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

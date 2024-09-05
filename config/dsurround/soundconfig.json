@@ -4,6 +4,10 @@
     "soundEventId": "minecraft:ambient.underwater.exit"
   },
   {
+    "block": true,
+    "soundEventId": "minecraft:block.water.ambient"
+  },
+  {
     "cull": true,
     "soundEventId": "minecraft:entity.chicken.ambient"
   },

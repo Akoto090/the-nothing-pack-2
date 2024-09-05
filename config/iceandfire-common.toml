@@ -6,27 +6,27 @@
 		"Generate Dragon Skeletons" = true
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
-		"Generate Dragon Skeleton Chance" = 500
+		"Generate Dragon Skeleton Chance" = 300
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
-		"Generate Dragon Cave Chance" = 200
+		"Generate Dragon Cave Chance" = 180
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
-		"Generate Dragon Roost Chance" = 400
+		"Generate Dragon Roost Chance" = 360
 		#1 out of this number chance per block that gold will generate in dragon lairs.
 		#Range: 1 ~ 10000
-		"Dragon Den Gold Amount" = 8
+		"Dragon Den Gold Amount" = 4
 		#Ratio of Stone(this number) to Ores in Dragon Caves
 		#Range: 1 ~ 10000
-		"Dragon Cave Ore Ratio" = 20
+		"Dragon Cave Ore Ratio" = 45
 
 	[Generation.Structures-Features]
 		#How far away dangerous structures(dragon roosts, cyclops caves, etc.) must be from spawn.
 		#Range: 1 ~ 10000
-		"Dangerous World Gen Dist From Spawn" = 1500
+		"Dangerous World Gen Dist From Spawn" = 800
 		#How far away dangerous structures(dragon roosts, cyclops caves, etc.) must be from the last generated structure.
 		#Range: 1 ~ 10000
-		"Dangerous World Gen Dist Seperation" = 500
+		"Dangerous World Gen Dist Seperation" = 300
 		#Whether to generate glacier biomes or not
 		"Generate Glaciers" = true
 		#Glacier Spawn Weight. Higher number = more common
@@ -44,17 +44,17 @@
 	[Dragons.Griefing]
 		#Dragon griefing - 2 is no griefing, 1 is breaking weak blocks, 0 is default. This value is also affected by minecrafts mob griefing rule.
 		#Range: 0 ~ 2
-		"Dragon Griefing" = 1
+		"Dragon Griefing" = 0
 		#True if tamed dragons can follow the griefing rules.
 		"Tamed Dragon Griefing" = true
 		#The percentage chance for a block to drop as an item when a dragon breaks it.
 		#Range: 0.0 ~ 1.0
-		"Dragon Block Breaking Drop Chance" = 0.5
+		"Dragon Block Breaking Drop Chance" = 0.10000000149011612
 
 	[Dragons.Attributes]
 		#How long it takes(in ticks) for a dragon egg to hatch
 		#Range: > 1
-		"Dragon Egg Hatch Time" = 10000
+		"Dragon Egg Hatch Time" = 7200
 		#Dragon Flap Noise Distance - Larger number, further away you can hear it
 		#Range: 0 ~ 10000
 		"Dragon Flap Noise Distance" = 4
@@ -63,19 +63,19 @@
 		"Dragon Flute Distance" = 4
 		#Max dragon health. Health is scaled to this
 		#Range: 1.0 ~ 100000.0
-		"Dragon Health" = 20000.0
+		"Dragon Health" = 500.0
 		#Max dragon attack damage. Attack Damage is scaled to this
 		#Range: 1 ~ 10000
-		"Dragon Attack Damage" = 50
+		"Dragon Attack Damage" = 17
 		#Damage dealt from a successful fire breath attack. Attack Damage is scaled to by age, so a stage 5 dragon will deal 5x as much as this number
 		#Range: 0.0 ~ 10000.0
-		"Dragon Attack Damage(Fire breath)" = 5.0
+		"Dragon Attack Damage(Fire breath)" = 2.0
 		#Damage dealt from a successful ice breath attack. Attack Damage is scaled to by age, so a stage 5 dragon will deal 5x as much as this number
 		#Range: 0.0 ~ 10000.0
-		"Dragon Attack Damage(Ice breath)" = 5.0
+		"Dragon Attack Damage(Ice breath)" = 2.5
 		#Damage dealt from a successful lightning breath attack. Attack Damage is scaled to by age, so a stage 5 dragon will deal 5x as much as this number
 		#Range: 0.0 ~ 10000.0
-		"Dragon Attack Damage(Lightning breath)" = 7.5
+		"Dragon Attack Damage(Lightning breath)" = 3.5
 		#Change this to slow down or speed up dragon or amphithere flight.
 		#Range: 0.0 ~ 2.0
 		"Dragon Flight Speed Modifier" = 1.0
@@ -85,7 +85,7 @@
 	[Dragons.Behaviour]
 		#How high dragons can fly, in Y height.
 		#Range: > 100
-		"Max Dragon Flight Height" = 350
+		"Max Dragon Flight Height" = 256
 		#How far away dragons will detect gold blocks being destroyed or chests being opened
 		#Range: 0 ~ 10000
 		"Dragon Gold Search Length" = 30
@@ -107,10 +107,10 @@
 		"Explosive Dragon Breath" = false
 		#How many blocks away can dragons spot potential prey. Note that increasing this could cause lag.
 		#Range: 1 ~ 10000
-		"Dragon Target Search Length" = 100
+		"Dragon Target Search Length" = 128
 		#How many blocks away can dragons wander from their defined "home" position.
 		#Range: 1 ~ 10000
-		"Dragon Wander From Home Distance" = 100
+		"Dragon Wander From Home Distance" = 40
 		#Every interval of this number in ticks, dragon hunger decreases.
 		#Range: 1 ~ 10000
 		"Dragon Hunger Tick Rate" = 3000
@@ -271,7 +271,7 @@
 		"Spawn Amphitheres" = true
 		#Amphithere spawn weight. Lower = lower chance to spawn
 		#Range: 1 ~ 10000
-		"Amphithere Spawn Weight" = 5
+		"Amphithere Spawn Weight" = 50
 		#How many blocks away can ampitheres detect villagers being hurt. Note that increasing this could cause lag.
 		#Range: 1 ~ 10000
 		"Amphithere Villager Search Length" = 64

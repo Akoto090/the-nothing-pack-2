@@ -2,7 +2,9 @@
   "logging": {
     "enableDebugLogging": false,
     "traceMask": 0,
-    "enableModUpdateChatMessage": true
+    "enableModUpdateChatMessage": true,
+    "filteredTagView": true,
+    "registerCommands": true
   },
   "soundSystem": {
     "streamingChannels": 12,
@@ -18,8 +20,12 @@
     "reverbBounces": 4,
     "reverbRayTraceDistance": 256
   },
-  "thunderStorms": {
-    "replaceThunderSounds": true
+  "soundOptions": {
+    "ambientVolumeScaling": 100,
+    "replaceThunderSounds": true,
+    "allowScarySounds": true,
+    "playBiomeMusicWhileCreative": false,
+    "displayToastMessagesForMusic": true
   },
   "blockEffects": {
     "blockEffectRange": 32,

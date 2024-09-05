@@ -1,0 +1,192 @@
+{
+    "filters": [
+      {
+        "category": "ytech:block_hit"
+      },
+      {
+        "id": "emi:/anvil/repairing/material/minecraft/wooden_pickaxe/spectrum/black_planks",
+        "category": "emi:anvil_repairing"
+      },
+      {
+        "id": "emi:/anvil/repairing/material/minecraft/wooden_sword/spectrum/black_planks",
+        "category": "emi:anvil_repairing"
+      },
+      {
+        "id": "emi:/anvil/repairing/material/minecraft/wooden_shovel/spectrum/black_planks",
+        "category": "emi:anvil_repairing"
+      },
+      {
+        "id": "emi:/anvil/repairing/material/minecraft/wooden_axe/spectrum/black_planks",
+        "category": "emi:anvil_repairing"
+      },
+      {
+        "id": "emi:/anvil/repairing/material/minecraft/wooden_hoe/spectrum/black_planks",
+        "category": "emi:anvil_repairing"
+      },
+      { "id": "emi:emi_loot/block_drops/quark/blocks/vertical_acacia_planks",
+        "category": "emi_loot:block_drops"
+      },
+      { "id": "emi:emi_loot/block_drops/quark/blocks/vertical_ancient_planks",
+        "category": "emi_loot:block_drops"
+      },
+      { "id": "emi:emi_loot/block_drops/quark/blocks/vertical_azalea_planks",
+        "category": "emi_loot:block_drops"
+      },
+      { "id": "emi:emi_loot/block_drops/quark/blocks/vertical_blossom_planks",
+        "category": "emi_loot:block_drops"
+      },
+      { "id": "emi:emi_loot/block_drops/quark/blocks/vertical_oak_planks",
+        "category": "emi_loot:block_drops"
+      },
+        { "id": "emi:emi_loot/block_drops/quark/blocks/vertical_oak_planks",
+        "category": "emi_loot:block_drops"
+      },
+        { "id": "emi:emi_loot/block_drops/quark/blocks/vertical_spruce_planks",
+        "category": "emi_loot:block_drops"
+      },
+        { "id": "emi:emi_loot/block_drops/quark/blocks/vertical_birch_planks",
+        "category": "emi_loot:block_drops"
+      },
+        { "id": "emi:emi_loot/block_drops/quark/blocks/vertical_jungle_planks",
+        "category": "emi_loot:block_drops"
+      },
+        { "id": "emi:emi_loot/block_drops/quark/blocks/vertical_dark_oak_planks",
+        "category": "emi_loot:block_drops"
+      },
+        { "id": "emi:emi_loot/block_drops/quark/blocks/vertical_crimson_planks",
+        "category": "emi_loot:block_drops"
+      },
+        { "id": "emi:emi_loot/block_drops/quark/blocks/vertical_warped_planks",
+        "category": "emi_loot:block_drops"
+      },
+        { "id": "emi:emi_loot/block_drops/quark/blocks/vertical_mangrove_planks",
+        "category": "emi_loot:block_drops"
+      },
+        { "id": "emi:emi_loot/block_drops/quark/blocks/vertical_bamboo_planks",
+        "category": "emi_loot:block_drops"
+      },
+        { "id": "emi:emi_loot/block_drops/quark/blocks/vertical_cherry_planks",
+        "category": "emi_loot:block_drops"
+      },
+      { "id": "emi:/fuel/item/quark/vertical_acacia_planks",
+      "category": "emi:fuel"
+      },
+      { "id": "emi:/fuel/item/quark/vertical_ancient_planks",
+      "category": "emi:fuel"
+      },
+      { "id": "emi:/fuel/item/quark/vertical_azalea_planks",
+      "category": "emi:fuel"
+      },
+      { "id": "emi:/fuel/item/quark/vertical_blossom_planks",
+      "category": "emi:fuel"
+      },
+      { "id": "emi:/fuel/item/quark/vertical_oak_planks",
+      "category": "emi:fuel"
+      },
+      { "id": "emi:/fuel/item/quark/vertical_spruce_planks",
+      "category": "emi:fuel"
+      },
+      { "id": "emi:/fuel/item/quark/vertical_birch_planks",
+      "category": "emi:fuel"
+      },
+      { "id": "emi:/fuel/item/quark/vertical_jungle_planks",
+      "category": "emi:fuel"
+      },
+      { "id": "emi:/fuel/item/quark/vertical_dark_oak_planks",
+      "category": "emi:fuel"
+      },
+      { "id": "emi:/fuel/item/quark/vertical_crimson_planks",
+      "category": "emi:fuel"
+      },
+      { "id": "emi:/fuel/item/quark/vertical_warped_planks",
+      "category": "emi:fuel"
+      },
+      { "id": "emi:/fuel/item/quark/vertical_mangrove_planks",
+      "category": "emi:fuel"
+      },
+      { "id": "emi:/fuel/item/quark/vertical_bamboo_planks",
+      "category": "emi:fuel"
+      },
+      { "id": "emi:/fuel/item/quark/vertical_cherry_planks",
+      "category": "emi:fuel"
+      },
+      { "id": "jei:/thermal/stirling_vertical_acacia_planks",
+      "category": "thermal:stirling_fuel"
+      },
+      { "id": "jei:/thermal/stirling_vertical_ancient_planks",
+      "category": "thermal:stirling_fuel"
+      },
+      { "id": "jei:/thermal/stirling_vertical_blossom_planks",
+      "category": "thermal:stirling_fuel"
+      },
+      { "id": "jei:/thermal/stirling_vertical_oak_planks",
+      "category": "thermal:stirling_fuel"
+      },
+      { "id": "jei:/thermal/stirling_vertical_spruce_planks",
+      "category": "thermal:stirling_fuel"
+      },
+      { "id": "jei:/thermal/stirling_vertical_birch_planks",
+      "category": "thermal:stirling_fuel"
+      },
+      { "id": "jei:/thermal/stirling_vertical_jungle_planks",
+      "category": "thermal:stirling_fuel"
+      },
+      { "id": "jei:/thermal/stirling_vertical_dark_oak_planks",
+      "category": "thermal:stirling_fuel"
+      },
+      { "id": "jei:/thermal/stirling_vertical_crimson_planks",
+      "category": "thermal:stirling_fuel"
+      },
+      { "id": "jei:/thermal/stirling_vertical_warped_planks",
+      "category": "thermal:stirling_fuel"
+      },
+      { "id": "jei:/thermal/stirling_vertical_mangrove_planks",
+      "category": "thermal:stirling_fuel"
+      },
+      { "id": "jei:/thermal/stirling_vertical_bamboo_planks",
+      "category": "thermal:stirling_fuel"
+      },
+      { "id": "jei:/thermal/stirling_vertical_cherry_planks",
+      "category": "thermal:stirling_fuel"
+      },
+      { "id": "jei:/thermal/stirling_vertical_azalea_planks",
+      "category": "thermal:stirling_fuel"
+      },
+      { "id": "jei:/thermal/stirling_vertical_bamboo_planks",
+      "category": "thermal:stirling_fuel"
+      },
+      { "id": "jei:/thermal/stirling_vertical_bamboo_planks",
+      "category": "thermal:stirling_fuel"
+      },
+      { "id": "jei:/thermal/gourmand_bacon",
+      "category": "thermal:gourmand_fuel"
+      },
+      { "id": "jei:/thermal/gourmand_cooked_bacon",
+      "category": "thermal:gourmand_fuel"
+      },
+      { "id": "jei:/mekanism/liquifier/croptopia/cooked_bacon",
+      "category": "mekanism:nutritional_liquifier"
+      },
+      { "id": "jei:/mekanism/liquifier/croptopia/bacon",
+      "category": "mekanism:nutritional_liquifier"
+      },
+      { "id": "jei:/mekanism/liquifier/divinerpg/bacon",
+      "category": "mekanism:nutritional_liquifier"
+      },
+      { "id": "jei:/thermal/gourmand_bacon",
+      "category": "thermal:gourmand_fuel"
+      },
+      { "id": "emienchants:/mna/fireproof",
+      "category": "emienchants:enchants"
+      },
+      { "id": "emienchants:/mna/returning",
+      "category": "emienchants:enchants"
+      },
+      { "id": "emienchants:/mna/soulbound",
+      "category": "emienchants:enchants"
+      }
+    
+    ]
+  }
+
+  

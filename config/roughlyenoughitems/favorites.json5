@@ -1,0 +1,11 @@
+{
+	"favorites": [
+		"{type:\"heracles:heracles\"}",
+		"{mode:\"MORN\",type:\"roughlyenoughitems:time\"}",
+		"{type:\"roughlyenoughitems:weather\",weather:\"CLEAR\"}",
+		"{data:{Count:1b,id:\"enderio:sag_mill\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"enderio:primitive_alloy_smelter\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+	],
+	"hiddenFavorites": [],
+	"displays": []
+}

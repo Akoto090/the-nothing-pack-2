@@ -1,0 +1,66 @@
+
+[general]
+	#If mod can change behaviour of specified blocks to require valid tool for harvesting
+	makeBlocksRequireValidTool = true
+	#List of block tags that will require valid tool for harvesting
+	makeBlocksRequireValidToolTags = ["minecraft:logs", "minecraft:dirt"]
+	#Enables crafting Sharp Flint by right-clicking on stone
+	craftSharpFlintByRightClickingOnStone = false
+
+[dryingRack]
+	#If Drying Rack should stop working during rain
+	noDryingDuringRain = true
+	#List of biome tags, where will be drying 2x slower
+	slowDryingBiomeTags = ["forge:is_wet"]
+	#List of biome tags, where will be drying 2x faster
+	fastDryingBiomeTags = ["forge:is_dry"]
+
+[irrigation]
+
+	[irrigation.aqueduct]
+		#Base amount of fluid stored per block
+		#Range: > 1
+		baseFluidStoragePerBlock = 500
+		#If raining should fill aqueduct
+		rainingFillAqueduct = true
+		#Amount of which will be aqueduct filled per nth tick when raining
+		#Range: > 1
+		rainingFillAmount = 1
+		#How often should be filled aqueduct when raining (1 - every tick, 20 - every second)
+		#Range: > 1
+		rainingFillPerNthTick = 10
+		#If aqueduct must see sky and must be in valid biome where is raining when raining for filling
+		validBlockForRaining = true
+
+	[irrigation.valve]
+		#Amount of which will be aqueduct filled every nth tick thru valve
+		#Range: > 1
+		valveFillAmount = 1
+		#How often should be filled aqueduct thru valve (1 - every tick, 20 - every second)
+		#Range: > 1
+		valveFillPerNthTick = 10
+
+	[irrigation.hydrator]
+		#Amount of which will be aqueduct drained every nth tick thru hydrator
+		#Range: > 1
+		hydratorDrainAmount = 100
+		#How often should be drained aqueduct thru hydrator (1 - every tick, 20 - every second)
+		#Range: > 1
+		hydratorDrainPerNthTick = 200
+
+	[irrigation.fertilizer]
+		#How long last single piece of fertilizer
+		#Range: > 1
+		fertilizerDuration = 600
+		#How often should be applied bone meal effect (1 / n chance per tick)
+		#Range: > 1
+		applyFertilizerChance = 60
+
+[wildAnimalsBreeding]
+	#Minimum generations for domestic animal breeding result
+	#Range: > 1
+	minBreedingGenerations = 3
+	#Chance for domestic animal breeding result, multiplied by each generation after minBreedingGenerations
+	#Range: 2.2250738585072014E-308 ~ 1.0
+	domesticChance = 0.2
+

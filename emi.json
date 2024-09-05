@@ -1,0 +1,39 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:gtceu:lp_steam_solid_boiler",
+    "item:gtceu:lp_steam_liquid_boiler",
+    "item:actuallyadditions:crusher_double",
+    "item:actuallyadditions:canola",
+    "item:minecraft:netherite_scrap",
+    "item:avaritia:diamond_lattice",
+    "item:avaritia:crystal_matrix_ingot",
+    "item:avaritia:crystal_matrix",
+    "item:avaritia:extreme_crafting_table",
+    "item:avaritia:infinity_catalyst",
+    "item:avaritia:star_fuel",
+    {
+      "type": "item",
+      "id": "projecte:philosophers_stone",
+      "remainder": "item:projecte:philosophers_stone"
+    },
+    "item:projecte:transmutation_table",
+    "item:techreborn:raw_tin",
+    "item:techreborn:raw_silver",
+    "item:techreborn:raw_lead",
+    "item:techreborn:raw_iridium",
+    "item:techreborn:raw_tungsten",
+    "item:eidolon:raw_lead",
+    "item:mekanism:raw_lead",
+    "item:railcraft:lead_raw",
+    "item:thermal:raw_lead"
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

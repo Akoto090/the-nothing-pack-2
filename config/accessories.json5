@@ -1,0 +1,14 @@
+{
+	"clientData": {
+		"showGroupTabs": true,
+		"showUniqueRendering": false,
+		"showLineRendering": true,
+		"inventoryButtonXOffset": 66,
+		"inventoryButtonYOffset": 9,
+		"creativeInventoryButtonXOffset": 96,
+		"creativeInventoryButtonYOffset": 7,
+		"forceNullRenderReplacement": false,
+		"disableEmptySlotScreenError": false
+	},
+	"modifiers": []
+}

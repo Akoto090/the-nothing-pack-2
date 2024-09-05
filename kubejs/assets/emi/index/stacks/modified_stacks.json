@@ -1,0 +1,29 @@
+{
+	"added": [
+		{
+			"stack": "item:minecraft:stone",
+			"after": null
+		},
+		{
+			"stack": "item:minecraft:granite",
+			"after": "item:minecraft:stone"
+		},
+		{
+			"stack": "item:minecraft:polished_granite",
+			"after": "item:minecraft:granite"
+		},
+		{
+			"stack": "item:minecraft:iron_ingot",
+			"after": "item:minecraft:polished_granite"
+		}
+	],
+	"removed": [
+		"item:example:item",
+		"item:minecraft:stone",
+		"item:minecraft:granite",
+		"item:minecraft:polished_granite",
+		"item:minecraft:iron_ingot"
+	],
+	"filters": [],
+	"disable": false
+}

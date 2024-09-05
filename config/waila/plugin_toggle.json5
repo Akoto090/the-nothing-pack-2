@@ -1,0 +1,14 @@
+{
+  "waila:core": true,
+  "waila:vanilla": true,
+  "waila:harvest": true,
+  "waila:extra": true,
+  "waila:forge": true,
+  "waila:test": false,
+  "ae2:wthit": true,
+  "megane:applied-energistics-2": true,
+  "minecraft:projecte": true,
+  "mi:server": true,
+  "mi:client": true,
+  "mekanism:plugin": false
+}

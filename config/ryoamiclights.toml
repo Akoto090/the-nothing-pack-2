@@ -1,0 +1,73 @@
+
+[light_sources]
+	water_sensitive_check = true
+	block_entities = true
+	entities = true
+	self = true
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				item = true
+				bee = true
+				villager = true
+				salmon = true
+				cow = true
+				horse = true
+				skeleton = true
+				bat = true
+				zombie = true
+				glow_squid = true
+				drowned = true
+				spider = true
+				experience_orb = true
+				creeper = true
+				player = true
+
+			[light_sources.settings.entities.inventorypets]
+				bill_gates_entity = true
+				steve_ballmer_entity = true
+
+			[light_sources.settings.entities.mna]
+				pixie = true
+				barkling = true
+				living_ward = true
+				mushroom_soldier = true
+				witch_hunter = true
+
+			[light_sources.settings.entities.spectrum]
+				eraser = true
+
+			[light_sources.settings.entities.avaritia]
+				heaven_arrow = true
+				heaven_sub_arrow = true
+				immortal = true
+
+			[light_sources.settings.entities.divinerpg]
+				jack_o_man = true
+				ender_spider = true
+				pumpkin_spider = true
+				cave_crawler = true
+				aequorea = true
+				cyclops = true
+				miner = true
+
+			[light_sources.settings.entities.eidolon]
+				wraith = true
+				slimy_slug = true
+				raven = true
+
+			[light_sources.settings.entities.iceandfire]
+				ice_dragon = true
+				ghost = true
+				siren = true
+				hippocampus = true
+				multipart = true
+				dragon_multipart = true
+				sea_serpent = true
+
+			[light_sources.settings.entities.forbidden_arcanus]
+				lost_soul = true
+
