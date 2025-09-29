@@ -22,6 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Recipe for Coke Oven Bricks
 - Recipes for Paper (only with treebark in early game)
 - Recipe of Mushroom Stew uses now not poisend Mushrooms
+- Updated Nothing Core to let passive mobs spawn again
 
 ### Removed
 
